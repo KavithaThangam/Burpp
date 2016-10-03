@@ -1,2 +1,2 @@
 # Burpp
-Hostel server management
+Hotel server management
